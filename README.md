@@ -5,6 +5,13 @@ Here, you will find a collection of solved LeetCode questions, organized by data
 
 Within each data structure folder, you will find subfolders categorized by coding pattern. This makes it easy to identify and practice specific approaches to solving problems.
 
+# Notion Page Sheet
+If you'd like to view my notes on LeetCode questions I have solved and tips I noted for
+solving them check out my public notion page.
+
+[LeetCode_Notion_Page](https://irradiated-divan-178.notion.site/f1189912deab4d8eb5bd0a2ac0736388?v=81465bdacac24e5d9f681c50bf6f074d)
+![Example Image](leetcode_notion_image.png)
+
 # Running a JavaScript File Using Node.js
 1. Open a terminal window and navigate to the directory containing the `.js` file you want to run.
 
