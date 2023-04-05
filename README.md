@@ -11,10 +11,10 @@ solving them check out my public notion page.
 
 [LeetCode Notion Page](https://irradiated-divan-178.notion.site/f1189912deab4d8eb5bd0a2ac0736388?v=81465bdacac24e5d9f681c50bf6f074d)
 Sheet Preview:
-![Example Image](leetcode_notion_image.png)
+<img src='leetcode_notion_image.png' alt='Example Image'>
 
 Each question has documented tips and the solution posted:
-![Example Image 2](leetcode_notion_page_image.png){height=400}
+<img src='leetcode_notion_page_image.png' alt='Example Image Page' height="400">
 
 # Running a JavaScript File Using Node.js
 1. Open a terminal window and navigate to the directory containing the `.js` file you want to run.
