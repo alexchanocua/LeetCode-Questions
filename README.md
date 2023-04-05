@@ -14,7 +14,7 @@ Sheet Preview:
 ![Example Image](leetcode_notion_image.png)
 
 Each question has documented tips and the solution posted:
-![Example Image 2](leetcode_notion_page_image.png){width=400}
+![Example Image 2](leetcode_notion_page_image.png){height=400}
 
 # Running a JavaScript File Using Node.js
 1. Open a terminal window and navigate to the directory containing the `.js` file you want to run.
